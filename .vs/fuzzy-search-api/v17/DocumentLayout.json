@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanek\\fuzzy-search-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\schemas\\auth.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\schemas\\auth.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\config.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\core\\config.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\security.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\core\\security.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\alembic\\env.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:alembic\\env.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\models\\user.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\models\\user.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\auth.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\api\\auth.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\cruds\\user.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\cruds\\user.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\schemas\\user.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\schemas\\user.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\dependencies.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\core\\dependencies.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\algorithm_api.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\api\\algorithm_api.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\corpus_api.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\api\\corpus_api.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\schemas\\auth.py",
+              "RelativeDocumentMoniker": "app\\schemas\\auth.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\schemas\\auth.py",
+              "RelativeToolTip": "app\\schemas\\auth.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:52:07.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "env.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\alembic\\env.py",
+              "RelativeDocumentMoniker": "alembic\\env.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\alembic\\env.py",
+              "RelativeToolTip": "alembic\\env.py",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:47:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\main.py",
+              "RelativeDocumentMoniker": "app\\main.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\main.py",
+              "RelativeToolTip": "app\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:44:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "user.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\schemas\\user.py",
+              "RelativeDocumentMoniker": "app\\schemas\\user.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\schemas\\user.py",
+              "RelativeToolTip": "app\\schemas\\user.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:43:10.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\config.py",
+              "RelativeDocumentMoniker": "app\\core\\config.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\config.py",
+              "RelativeToolTip": "app\\core\\config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:42:13.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\models\\user.py",
+              "RelativeDocumentMoniker": "app\\models\\user.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\models\\user.py",
+              "RelativeToolTip": "app\\models\\user.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:41:40.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\cruds\\user.py",
+              "RelativeDocumentMoniker": "app\\cruds\\user.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\cruds\\user.py",
+              "RelativeToolTip": "app\\cruds\\user.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:41:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "security.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\security.py",
+              "RelativeDocumentMoniker": "app\\core\\security.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\security.py",
+              "RelativeToolTip": "app\\core\\security.py",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:41:09.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dependencies.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\dependencies.py",
+              "RelativeDocumentMoniker": "app\\core\\dependencies.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\core\\dependencies.py",
+              "RelativeToolTip": "app\\core\\dependencies.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:40:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "corpus_api.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\corpus_api.py",
+              "RelativeDocumentMoniker": "app\\api\\corpus_api.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\corpus_api.py",
+              "RelativeToolTip": "app\\api\\corpus_api.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:39:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-21T15:39:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "auth.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\auth.py",
+              "RelativeDocumentMoniker": "app\\api\\auth.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\auth.py",
+              "RelativeToolTip": "app\\api\\auth.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:36:35.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "algorithm_api.py",
+              "DocumentMoniker": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\algorithm_api.py",
+              "RelativeDocumentMoniker": "app\\api\\algorithm_api.py",
+              "ToolTip": "C:\\Users\\Sanek\\fuzzy-search-api\\app\\api\\algorithm_api.py",
+              "RelativeToolTip": "app\\api\\algorithm_api.py",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANdSURBVEhL1ZNNaFxVGIafc86deydjGxNjGvMLQhpBi9CdBUEKbnRR00VWUoSmIC6qRUqhwS6ycKlQdFWhm1JxEbCgJV3FLtwUUlKJidNB29BgYqIpM5P5STLnnM9FZu5kmqkpVBd\u002BcLgvl3uf93x/8F\u002BGiDz66l8PVRPXs3PyUrKVs6VzzNlp\u002BnVEnw7oM4rewNEbWtpNhYRzhM7Fz5064RxahOW1kJdffagAdM2gOwq4XVyiqzyIK6fYLCcpbyQobGnyFc3apmapFLJYjLi3nuTXfAt3cynSuRbS2SSZfIJ0PuJhoYuS26ph6xmM5T6VuT83yXw7gS85bNHhShZXdLhS9VS1VARxgtjqc4f\u002B6eYQK3aJ1w\u002BuNmbw9dZV0tx\u002BKrg4wUT7sWGyhq0baF9BzFoMv//FfR5cfsD0l9OMvzdOYAOkIhwaPMTFTy6yMr3Cnck7nBw52WAUBc\u002BgdLDboNNonjf1mwNc\u002BOoCV65fYXR4lONHj9Pf1c\u002BNyzfo6uhi5P0RJqcmEd\u002BYRSQRRmIssVW31uiEZ7FaCoDZX2ZZXlpm9J1Rejp7OHb0GNZZTnx4gnKxzNTNqV0lEtTO1tYz6Et4XjCVuOYA1z6/xq1vbpFbz3Hp6iWyuSyFYoFysdy0/uIEpRQ7tys2GAgtPWYzbijA\u002Bc/Oc2TkCIffPkw2m2Xi\u002BwnaWtsYPzvO0ItDjH00xvBbww0GKLV9HjU4gKdV6tMCMJueZT49H/9cyBc4PXaaU\u002B\u002BeYuaHGc58cIaO9o66gRcEqmXajlh9VxqQv/KGj4eze46iWGGgZ4CFhYUGOA7\u002B\u002BH2Y\u002BY2feaPvbuMePOcd\u002B9zec17TzeDiBS/12zcYPGst\u002B23lscBduglcnCBKNZQoNmirVEg593jgk8D9dpObTlHSWkLvmwOfFN4kYgPjPVrqwMJvBYoLRUqLJcrLZTZWN8jMZPaEi9A8g9o3tdum\u002BlO0dLeQPJAk6ogI20IGXxn8RzhU4Tv6HBsUjcEqnros23tQj9grs9gqqtLJPtWC1gm0NhgVkJAA0QbRGrRClMJjcBh89Vgf4FWAFY1Kpbi3/iNv9m7vQd0g0y7aJNAmINSahDJEOiD0GowCZRADKI1XBq80ThkcGk\u002BAJcBicASsbmZ5rXu6cSH\u002Bt/E3MWYiY3LF70kAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-21T15:36:33.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

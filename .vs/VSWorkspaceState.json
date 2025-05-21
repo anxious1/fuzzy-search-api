@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\alembic",
+    "\\app",
+    "\\app\\api",
+    "\\app\\core",
+    "\\app\\cruds",
+    "\\app\\models",
+    "\\app\\schemas",
+    "\\app\\services\\__pycache__"
+  ],
+  "SelectedNode": "\\app\\cruds\\__pycache__",
+  "PreviewInSolutionExplorer": false
+}
