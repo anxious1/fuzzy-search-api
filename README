@@ -1,92 +1,135 @@
-# Структура проекта:
-project/ 
+# Fuzzy-Search API
+
+**FastAPI** • **SQLite** • **SQLAlchemy** • **JWT-Authentication**
+
+---
+
+## Оглавление
+
+1. [Описание проекта](#описание-проекта)  
+2. [Структура каталогов](#структура-каталогов)  
+3. [Быстрый запуск с помощью скрипта](#быстрый-запуск-с-помощью-скрипта)  
+4. [Ручной запуск (Bash / PowerShell)](#ручной-запуск-bash--powershell)  
+5. [Доступные эндпоинты](#доступные-эндпоинты)  
+6. [Архитектура и слои приложения](#архитектура-и-слои-приложения)  
+7. [Тестирование](#тестирование)  
+
+---
+
+## Описание проекта
+
+REST-API на FastAPI для поиска по загруженным корпусам текстов.  
+Поддерживает:
+- Регистрацию и логин по email/паролю  
+- JWT-аутентификацию с автоматической защитой маршрутов  
+- Загрузку и хранение корпусов (SQLite)  
+- Запуск алгоритмов поиска (Levenshtein, N-gram)  
+
+---
+
+## Структура каталогов
+fuzzy-search-api/
+├── alembic/ # миграции (необязательно, можно использовать init_db)
 ├── app/
-│   ├── api/             # эндпоинты
-│   ├── core/            # конфиги и celery
-│   ├── cruds/           # CRUD-операции с БД
-│   ├── db/              # подключение к БД
-│   ├── models/          # модели таблиц
-│   ├── schemas/         # схемы Pydantic
-│   ├── services/        # алгоритмы и задачи
-│   └── main.py          # точка входа
-├── alembic/             # миграции
-└── app.db               # SQLite база данных
+│ ├── api/
+│ │ ├── auth.py # /auth/signup, /auth/token, /auth/me
+│ │ ├── corpus_api.py # /corpus/ (upload, list)
+│ │ └── algorithm_api.py# /algorithm/search
+│ ├── core/
+│ │ ├── config.py # настройки (DB URL, JWT secret)
+│ │ └── security.py # JWT, хеш пароля, Depends-функции
+│ ├── db/
+│ │ └── session.py # engine, SessionLocal, Base
+│ ├── models/
+│ │ └── user.py # SQLAlchemy User
+│ ├── schemas/
+│ │ └── auth.py # Pydantic-схемы UserCreate, UserRead, Token
+│ ├── cruds/
+│ │ └── user.py # get_user, create_user
+│ ├── services/
+│ │ └── algorithms.py # search_levenshtein, search_ngrams
+│ └── main.py # точка входа, сборка приложения
+├── scripts/
+│ └── init_db.py # создаёт все таблицы через Base.metadata.create_all()
+├── run_fuzzy_project.ps1 # PowerShell-скрипт автоматического развёртывания
+├── requirements.txt # зависимости
+└── README.md # этот файл
 
-# Запуск проекта:
+---
 
-# Установить зависимости
+## Быстрый запуск с помощью скрипта
 
-pip install -r requirements.txt
+**Windows PowerShell**  
+1. Откройте PowerShell и перейдите в папку проекта:
+   ```powershell
+   cd $env:USERPROFILE\fuzzy-search-api
 
-# Применить миграции
+Разрешите выполнение скриптов:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned -Force
 
-alembic upgrade head
+Запустите автоматическую установку и старт:
+.\run_fuzzy_project.ps1
+Скрипт:
 
-# Запустить Redis (если нужен асинхронный поиск)
+Клонирует репозиторий (если нужно)
 
-# Запустить Celery worker:
+Создаёт и активирует venv
 
-celery -A app.core.celery_app.celery worker --loglevel=info -Q search --pool=solo
+Устанавливает зависимости
 
-# Запустить FastAPI сервер:
+Запускает scripts\init_db.py для создания таблиц
 
-uvicorn app.main:app --reload
+Стартует сервер Uvicorn с --reload
 
-# Открыть Swagger UI: http://127.0.0.1:8000/docs
 
-# Аутентификация:
+Доступные эндпоинты
+Auth
+Метод	Путь	Описание
+POST	/auth/signup	Регистрация (email, password)
+POST	/auth/token	Логин → возвращает JWT
+GET	/auth/me	Данные текущего пользователя
 
-POST /sign-up/ — регистрация (email + password)
+Corpus
+Метод	Путь	Описание
+POST	/corpus/	Загрузить новый корпус
+GET	/corpus/	Список всех корпусов
 
-POST /login/ — вход и получение JWT
+Algorithm
+Метод	Путь	Описание
+POST	/algorithm/search	Поиск: {"corpus_id":1,"algorithm":"levenshtein","query":"text"}
 
-GET /users/me/ — получить данные текущего пользователя
+Архитектура и слои приложения
+main.py
+Сборка приложения: роутеры, OpenAPI (JWT-security).
 
-Для доступа к защищённым маршрутам — нажмите "Authorize" в Swagger и введите Bearer <ваш_токен>
+api/
+HTTP-маршруты (APIRouter), связывают запросы с бизнес-логикой.
 
-# Работа с корпусами:
+schemas/
+Pydantic-модели для входа/выхода: валидация, документация, скрытие внутренних полей.
 
-POST /upload_corpus — загрузить текстовый корпус (название + содержимое)
+core/
+Конфигурации и зависимости:
 
-GET /corpuses — получить список всех корпусов
+config.py (DB, JWT-настройки)
 
-# Алгоритмы поиска:
+security.py (JWT-логика, пароли, Depends)
 
-# Реализовано два алгоритма нечеткого поиска
+db/
+Настройка SQLAlchemy: engine, SessionLocal, Base.
 
-levenshtein — расстояние Левенштейна (через rapidfuzz)
+models/
+ORM-классы (таблицы).
 
-ngram — метод N-грамм
+cruds/
+Простой слой доступа к данным (SELECT, INSERT).
 
-# Эндпоинт: 
+services/
+Бизнес-логика и алгоритмы (поиск).
 
-POST /search_algorithm
+scripts/
+Утилиты для администрирования (init_db).
 
-# Тело запроса:
-
-{
-  "query": "matrix",
-  "algorithm": "levenshtein",
-  "corpus_id": 1
-}
-
-# Ответ:
-
-{
-  "results": ["The Matrix"],
-  "duration": 3.25
-}
-
-#Realtime (WebSocket)
-
-ws://localhost:8000/ws/search
-
-Можно подключиться через WebSocket-клиент и отправлять строки для поиска — ответы приходят в реальном времени.
-
-#Асинхронный поиск через Celery
-
-POST /search/async/ — запустить задачу поиска
-
-GET /search/result/{task_id} — получить результат
-
-# Реализовано в рамках лабораторной работы по теме "Нечеткий поиск" ПМ23-5 Толстопятенко А.О. 
+Тестирование
+Используйте Swagger UI:
+http://127.0.0.1:8000/docs
