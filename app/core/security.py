@@ -40,7 +40,6 @@ def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(
     payload = decode_access_token(token)
     if not payload or not payload.get("user_id"):
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid authentication credentials")
-    # локальный импорт, чтобы разорвать цикл
     from app.cruds.user import get_user_by_id
 
     user = get_user_by_id(db, payload["user_id"])
