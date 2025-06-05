@@ -3,6 +3,34 @@
 **FastAPI** • **SQLite** • **SQLAlchemy** • **JWT-Authentication**
 
 ---
+## Быстрый запуск с помощью скрипта
+
+**Windows PowerShell**  
+1. Откройте PowerShell и перейдите в папку проекта:
+   ```powershell
+   cd $env:USERPROFILE\fuzzy-search-api
+
+Разрешите выполнение скриптов:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned -Force
+
+Запустите автоматическую установку и старт:
+.\run_fuzzy_project.ps1
+
+Используйте Swagger UI:
+http://127.0.0.1:8000/docs
+
+Скрипт:
+
+Клонирует репозиторий (если нужно)
+
+Создаёт и активирует venv
+
+Устанавливает зависимости
+
+Запускает scripts\init_db.py для создания таблиц
+
+Стартует сервер Uvicorn с --reload
+---
 
 ## Оглавление
 
@@ -57,32 +85,7 @@ fuzzy-search-api/
 
 ---
 
-## Быстрый запуск с помощью скрипта
-
-**Windows PowerShell**  
-1. Откройте PowerShell и перейдите в папку проекта:
-   ```powershell
-   cd $env:USERPROFILE\fuzzy-search-api
-
-Разрешите выполнение скриптов:
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned -Force
-
-Запустите автоматическую установку и старт:
-.\run_fuzzy_project.ps1
-Скрипт:
-
-Клонирует репозиторий (если нужно)
-
-Создаёт и активирует venv
-
-Устанавливает зависимости
-
-Запускает scripts\init_db.py для создания таблиц
-
-Стартует сервер Uvicorn с --reload
-
-
-Доступные эндпоинты
+## Доступные эндпоинты
 Auth
 Метод	Путь	Описание
 POST	/auth/signup	Регистрация (email, password)
